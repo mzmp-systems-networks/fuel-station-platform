@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.vercel/
+
+# env (Supabase keys live here, never in git)
+.env
+.env.*
+!.env.example
+
+.DS_Store
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
