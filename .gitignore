@@ -9,6 +9,10 @@ node_modules/
 
 .DS_Store
 
+# research output, kept local
+/reports/
+/research_notes/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
